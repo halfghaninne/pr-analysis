@@ -12,3 +12,8 @@ This repo assumes you have repos in question to analyze, and permission to reque
 
 You can find a [placeholder .env]() file in this repo, with examples of the data used by the application. 
 You will need to make your own .env file in your local environment and [add it to your .gitignore] for your copy of the repo.
+
+# Resources
+
+[GitHub REST API](https://developer.github.com/v3/)
+[GitHub GraphQL API](https://developer.github.com/v4/)
